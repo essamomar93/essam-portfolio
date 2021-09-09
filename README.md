@@ -223,4 +223,4 @@ github: <https://github.com/essamomar93>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
-netlify : <competent-goldstine-7ad3c3.netlify.app>
+netlify : <https://competent-goldstine-7ad3c3.netlify.app>
